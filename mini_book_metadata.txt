@@ -1,0 +1,11 @@
+Title: The Trust Stack: Designing Systems That Show How They Know
+Subtitle: A mini book on visible uncertainty, defensible knowing, and trust-aware product architecture
+Approximate word count: 50136
+Primary files:
+- thoughts.MD
+- trust_stack_minibook_outline.md
+- trust_stack_minibook.md
+Draft notes:
+- Final extension pass added Appendix L.
+- Manuscript now exceeds the requested 50,000-word target.
+- Chapter-by-chapter structure and iterative note process preserved.
